@@ -1,0 +1,47 @@
+*{
+    background-color: rgb(138, 200, 255);
+}
+div{
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    width:18em;
+    height:9em;
+    margin-top: -8em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+    background-color: #2430a2;
+    border-radius: 20px;
+}
+input[placeholder="Name"]   
+{
+    width: 261px;
+    height: 20px;
+    margin: 10px;
+    border-radius: 25px;
+    background-color: #ffffff;
+}
+input[placeholder="Address"]
+{
+    width: 261px;
+    border-radius: 25px;
+    height: 23px;
+    margin: 10px;
+    background-color: #ffffff;
+}
+input[type="submit"]{
+    border-radius: 25px;
+    width: 260px;
+    height: 25px;
+    margin: 10px;
+    background-color: #ffffff;
+}
+.logo img{
+    width: 40px;
+    height: 40px;
+    margin: -21px;
+}
+.statement{
+    margin: 23px 584px;
+    font-style: italic;
+}
