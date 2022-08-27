@@ -6,7 +6,7 @@ function valid(){
     localStorage.setItem("Address", address);
     // document.write(<h1>`Welcome ${name}`</h1>);
     console.log(name);
-    window.open("index.html");
+    window.open("index2.html");
 }
 // function gotowhatsapp() {
     
